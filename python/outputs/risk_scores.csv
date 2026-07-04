@@ -1,0 +1,26 @@
+company_name,industry,model_score,model_rating,risk_class,decision,loan_status
+Great Plains Hardware Group,Retail,8.1,8,High Risk,Escalate,Defaulted
+Great Lakes Distribution Co,Logistics,8.05,8,High Risk,Escalate,Defaulted
+PrecisionAI Software Inc,Technology,7.9,8,High Risk,Escalate,Watchlist
+Heartland Precision Machining,Manufacturing,7.3,7,High Risk,Escalate,Watchlist
+DataBridge Analytics LLC,Technology,6.95,7,High Risk,Escalate,Watchlist
+CloudScale Technologies Inc,Technology,6.65,7,High Risk,Escalate,Active
+Midwest Precision Parts LLC,Manufacturing,6.0,6,Moderate Risk,Conditional Approval,Active
+Riverview Apartment Partners,Real Estate,5.85,6,Moderate Risk,Conditional Approval,Watchlist
+Ohio Valley Plastics Inc,Manufacturing,5.7,6,Moderate Risk,Conditional Approval,Active
+Midwest Surgical Partners,Healthcare,5.55,6,Moderate Risk,Conditional Approval,Watchlist
+Atlas Composite Materials,Manufacturing,4.7,5,Moderate Risk,Conditional Approval,Active
+Central States Freight LLC,Logistics,4.7,5,Moderate Risk,Conditional Approval,Active
+Keystone Industrial Supply,Manufacturing,4.5,4,Moderate Risk,Conditional Approval,Active
+TruCare Rehabilitation Group,Healthcare,4.25,4,Moderate Risk,Conditional Approval,Active
+Ohio Commercial Realty Group,Real Estate,4.05,4,Moderate Risk,Conditional Approval,Active
+Great Plains Medical Supply,Healthcare,3.85,4,Moderate Risk,Conditional Approval,Active
+Great Lakes Steel Fabrication,Manufacturing,3.7,4,Moderate Risk,Conditional Approval,Active
+Midwest Auto Stampings Corp,Manufacturing,3.7,4,Moderate Risk,Conditional Approval,Active
+NetSecure Systems Corp,Technology,3.25,3,Low Risk,Approve,Active
+Heartland Retail Stores Inc,Retail,3.25,3,Low Risk,Approve,Active
+Lakefront Properties LLC,Real Estate,3.15,3,Low Risk,Approve,Active
+Midwest Industrial REIT,Real Estate,2.95,3,Low Risk,Approve,Active
+Northern Light Diagnostics,Healthcare,2.95,3,Low Risk,Approve,Active
+Cardinal Health Systems LLC,Healthcare,2.85,3,Low Risk,Approve,Active
+Tri-State Metal Works,Manufacturing,2.6,3,Low Risk,Approve,Active

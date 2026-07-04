@@ -1,0 +1,26 @@
+company_name,industry,dscr_calc,dscr_flag,debt_ebitda,leverage_flag,icr,icr_flag,curr_ratio,risk_rating,loan_status
+PrecisionAI Software Inc,Technology,-0.31,BREACH,8.06,HIGH,1.31,INSUFFICIENT,1.09,8,Watchlist
+Great Plains Hardware Group,Retail,0.0,BREACH,2.22,ACCEPTABLE,7.5,ADEQUATE,1.94,8,Defaulted
+DataBridge Analytics LLC,Technology,0.36,BREACH,3.7,ACCEPTABLE,3.01,ADEQUATE,1.56,7,Watchlist
+CloudScale Technologies Inc,Technology,0.72,BREACH,4.02,ELEVATED,2.93,MARGINAL,1.58,6,Active
+Great Lakes Distribution Co,Logistics,0.89,BREACH,3.75,ACCEPTABLE,4.44,ADEQUATE,1.38,9,Defaulted
+Heartland Precision Machining,Manufacturing,1.09,BREACH,2.53,ACCEPTABLE,2.93,MARGINAL,1.91,7,Watchlist
+Atlas Composite Materials,Manufacturing,1.62,PASS,2.53,ACCEPTABLE,7.76,ADEQUATE,1.82,5,Active
+Midwest Precision Parts LLC,Manufacturing,1.78,PASS,2.07,ACCEPTABLE,3.17,ADEQUATE,2.32,5,Active
+Ohio Valley Plastics Inc,Manufacturing,1.88,PASS,2.53,ACCEPTABLE,6.59,ADEQUATE,1.5,6,Active
+Midwest Surgical Partners,Healthcare,2.07,PASS,1.92,ACCEPTABLE,8.02,ADEQUATE,1.93,6,Watchlist
+Midwest Auto Stampings Corp,Manufacturing,2.17,PASS,1.37,ACCEPTABLE,13.88,ADEQUATE,1.91,3,Active
+TruCare Rehabilitation Group,Healthcare,2.41,PASS,1.85,ACCEPTABLE,10.15,ADEQUATE,1.86,5,Active
+Northern Light Diagnostics,Healthcare,2.48,PASS,1.61,ACCEPTABLE,10.35,ADEQUATE,2.12,4,Active
+Great Plains Medical Supply,Healthcare,2.49,PASS,1.72,ACCEPTABLE,9.67,ADEQUATE,2.0,4,Active
+Tri-State Metal Works,Manufacturing,2.62,PASS,1.08,ACCEPTABLE,17.69,ADEQUATE,2.29,2,Active
+Keystone Industrial Supply,Manufacturing,2.87,PASS,1.72,ACCEPTABLE,9.7,ADEQUATE,2.0,4,Active
+NetSecure Systems Corp,Technology,3.05,PASS,1.14,ACCEPTABLE,13.47,ADEQUATE,2.16,4,Active
+Central States Freight LLC,Logistics,3.08,PASS,1.61,ACCEPTABLE,10.81,ADEQUATE,2.16,4,Active
+Heartland Retail Stores Inc,Retail,3.45,PASS,1.04,ACCEPTABLE,17.45,ADEQUATE,2.1,3,Active
+Riverview Apartment Partners,Real Estate,3.52,PASS,2.36,ACCEPTABLE,6.78,ADEQUATE,1.5,6,Watchlist
+Cardinal Health Systems LLC,Healthcare,3.59,PASS,0.96,ACCEPTABLE,18.13,ADEQUATE,2.01,3,Active
+Great Lakes Steel Fabrication,Manufacturing,3.87,PASS,1.06,ACCEPTABLE,17.22,ADEQUATE,2.24,3,Active
+Ohio Commercial Realty Group,Real Estate,4.55,PASS,1.46,ACCEPTABLE,12.41,ADEQUATE,2.0,4,Active
+Midwest Industrial REIT,Real Estate,5.17,PASS,1.16,ACCEPTABLE,16.45,ADEQUATE,2.24,3,Active
+Lakefront Properties LLC,Real Estate,5.42,PASS,1.47,ACCEPTABLE,11.36,ADEQUATE,2.0,5,Active

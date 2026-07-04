@@ -1,0 +1,26 @@
+company_name,industry,pd_pct,pd_class,risk_rating,loan_status,loan_amount
+PrecisionAI Software Inc,Technology,97.2,Critical (>50%),8,Watchlist,1200000
+Great Lakes Distribution Co,Logistics,90.7,Critical (>50%),9,Defaulted,9500000
+Great Plains Hardware Group,Retail,90.0,Critical (>50%),8,Defaulted,11000000
+DataBridge Analytics LLC,Technology,45.9,High (25–50%),7,Watchlist,1800000
+Heartland Precision Machining,Manufacturing,43.5,High (25–50%),7,Watchlist,3200000
+CloudScale Technologies Inc,Technology,36.0,High (25–50%),6,Active,2500000
+Riverview Apartment Partners,Real Estate,20.9,Moderate (10–25%),6,Watchlist,5000000
+Midwest Precision Parts LLC,Manufacturing,18.7,Moderate (10–25%),5,Active,8000000
+Midwest Surgical Partners,Healthcare,18.7,Moderate (10–25%),6,Watchlist,11000000
+Ohio Valley Plastics Inc,Manufacturing,15.3,Moderate (10–25%),6,Active,5500000
+TruCare Rehabilitation Group,Healthcare,6.5,Low (<10%),5,Active,4200000
+Atlas Composite Materials,Manufacturing,3.5,Low (<10%),5,Active,6800000
+Great Plains Medical Supply,Healthcare,2.6,Low (<10%),4,Active,7500000
+Central States Freight LLC,Logistics,2.4,Low (<10%),4,Active,16000000
+Keystone Industrial Supply,Manufacturing,1.8,Low (<10%),4,Active,9000000
+Northern Light Diagnostics,Healthcare,1.7,Low (<10%),4,Active,6000000
+Ohio Commercial Realty Group,Real Estate,1.5,Low (<10%),4,Active,14000000
+Lakefront Properties LLC,Real Estate,0.8,Low (<10%),5,Active,8500000
+Midwest Auto Stampings Corp,Manufacturing,0.7,Low (<10%),3,Active,22000000
+NetSecure Systems Corp,Technology,0.6,Low (<10%),4,Active,8000000
+Great Lakes Steel Fabrication,Manufacturing,0.4,Low (<10%),3,Active,12000000
+Heartland Retail Stores Inc,Retail,0.2,Low (<10%),3,Active,20000000
+Cardinal Health Systems LLC,Healthcare,0.2,Low (<10%),3,Active,18000000
+Tri-State Metal Works,Manufacturing,0.1,Low (<10%),2,Active,15000000
+Midwest Industrial REIT,Real Estate,0.1,Low (<10%),3,Active,25000000

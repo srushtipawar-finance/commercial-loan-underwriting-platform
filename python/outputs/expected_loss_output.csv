@@ -1,0 +1,26 @@
+company_name,industry,loan_amount,pd_pct,lgd,ead,expected_loss,el_class,risk_rating,loan_status
+Great Plains Hardware Group,Retail,11000000,90.0,0.55,11000000,5445000.0,High EL (>$500K),8,Defaulted
+Great Lakes Distribution Co,Logistics,9500000,90.7,0.55,9500000,4739075.0,High EL (>$500K),9,Defaulted
+Midwest Surgical Partners,Healthcare,11000000,18.7,0.35,11000000,719950.0,High EL (>$500K),6,Watchlist
+Heartland Precision Machining,Manufacturing,3200000,43.5,0.4,3200000,556800.0,High EL (>$500K),7,Watchlist
+Midwest Precision Parts LLC,Manufacturing,8000000,18.7,0.35,8000000,523600.0,High EL (>$500K),5,Active
+PrecisionAI Software Inc,Technology,1200000,97.2,0.4,1200000,466560.0,Moderate EL ($100K–$500K),8,Watchlist
+Riverview Apartment Partners,Real Estate,5000000,20.9,0.35,5000000,365750.0,Moderate EL ($100K–$500K),6,Watchlist
+DataBridge Analytics LLC,Technology,1800000,45.9,0.4,1800000,330480.0,Moderate EL ($100K–$500K),7,Watchlist
+CloudScale Technologies Inc,Technology,2500000,36.0,0.35,2500000,315000.0,Moderate EL ($100K–$500K),6,Active
+Ohio Valley Plastics Inc,Manufacturing,5500000,15.3,0.35,5500000,294525.0,Moderate EL ($100K–$500K),6,Active
+Central States Freight LLC,Logistics,16000000,2.4,0.25,16000000,96000.0,Low EL (<$100K),4,Active
+TruCare Rehabilitation Group,Healthcare,4200000,6.5,0.35,4200000,95550.0,Low EL (<$100K),5,Active
+Atlas Composite Materials,Manufacturing,6800000,3.5,0.35,6800000,83300.0,Low EL (<$100K),5,Active
+Ohio Commercial Realty Group,Real Estate,14000000,1.5,0.25,14000000,52500.0,Low EL (<$100K),4,Active
+Great Plains Medical Supply,Healthcare,7500000,2.6,0.25,7500000,48750.0,Low EL (<$100K),4,Active
+Keystone Industrial Supply,Manufacturing,9000000,1.8,0.25,9000000,40500.0,Low EL (<$100K),4,Active
+Midwest Auto Stampings Corp,Manufacturing,22000000,0.7,0.25,22000000,38500.0,Low EL (<$100K),3,Active
+Northern Light Diagnostics,Healthcare,6000000,1.7,0.25,6000000,25500.0,Low EL (<$100K),4,Active
+Lakefront Properties LLC,Real Estate,8500000,0.8,0.35,8500000,23800.0,Low EL (<$100K),5,Active
+Great Lakes Steel Fabrication,Manufacturing,12000000,0.4,0.25,12000000,12000.0,Low EL (<$100K),3,Active
+NetSecure Systems Corp,Technology,8000000,0.6,0.25,8000000,12000.0,Low EL (<$100K),4,Active
+Heartland Retail Stores Inc,Retail,20000000,0.2,0.25,20000000,10000.0,Low EL (<$100K),3,Active
+Cardinal Health Systems LLC,Healthcare,18000000,0.2,0.25,18000000,9000.0,Low EL (<$100K),3,Active
+Midwest Industrial REIT,Real Estate,25000000,0.1,0.25,25000000,6250.0,Low EL (<$100K),3,Active
+Tri-State Metal Works,Manufacturing,15000000,0.1,0.25,15000000,3750.0,Low EL (<$100K),2,Active
